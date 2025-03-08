@@ -1,4 +1,4 @@
-# Hello World!, I'm [Naraya] 👋
+# Hello World!, I'm Naraya 👋
 
 💻 Web Developer from [Indonesia/Semarang]  
 🚀 Currently working on [null]  
