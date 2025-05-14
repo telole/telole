@@ -16,5 +16,4 @@
 
 
 
-![yukino](https://id.pinterest.com/pin/102949541474517473)
 
