@@ -16,5 +16,5 @@
 
 
 
-![Yui Hirasawa](https://static.wikia.nocookie.net/k-on/images/e/e0/Yui_Hirasawa_Anime.png)
+
 
