@@ -1,7 +1,7 @@
 # Hello World!, I'm Naraya 👋
 
 💻 Web Developer from Indonesia/Semarang  
-🚀 Currently working on null
+🚀 Currently working on project
 
 
 ## 🛠️ Tech Stack:
