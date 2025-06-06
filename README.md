@@ -1,8 +1,9 @@
 # Hello World!, I'm Naraya 👋
 
 💻 Web Developer from Indonesia/Semarang  
-🚀 Currently working on project
+🚀 Currently working on various projects
 
+---
 
 ## 🛠️ Tech Stack:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -15,10 +16,19 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003B57?style=flat-square&logo=mariadb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+---
 
+## 📊 My GitHub Stats:
+![Naraya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=telole&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=tokyonight)
 
+## 📉 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telole&layout=compact&langs_count=10&hide_border=true&theme=tokyonight)
+
+---
 
 ![Image](https://github.com/user-attachments/assets/41d73e95-8604-4d88-8899-191ab74adc82)
-
