@@ -22,10 +22,8 @@
 
 ---
 
-## 📊 My GitHub Stats:
 ![Naraya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=telole&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=tokyonight)
 
-## 📉 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telole&layout=compact&langs_count=10&hide_border=true&theme=tokyonight)
 
 ---
