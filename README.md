@@ -2,6 +2,7 @@
 
 💻 Web Developer from Indonesia/Semarang  
 🚀 Currently working on various projects
+I Lost my skill On Arch
 
 ---
 
