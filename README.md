@@ -1,10 +1,10 @@
 <table align="center">
   <tr>
     <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=telole&show_icons=true&theme=tokyonight&hide_border=true"
-        width="600"
-      />
+    <img
+    src="https://github-readme-stats.vercel.app/api?username=telole&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    width="600"
+  />
     </td>
     <td>
       <img
