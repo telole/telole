@@ -3,7 +3,7 @@
     <td>
       <img
         src="https://github-readme-stats.vercel.app/api?username=telole&show_icons=true&theme=tokyonight&hide_border=true"
-        width="500"
+        width="600"
       />
     </td>
     <td>
