@@ -2,7 +2,7 @@
   <tr>
     <td>
     <img
-    src="https://github-readme-stats.vercel.app/api?username=telole&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=telole&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     width="600"
   />
     </td>
