@@ -58,7 +58,7 @@
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=telole1&api_domain=wakapi.dev&theme=tokyonight&layout=compact&range=last_112_days&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=telole1&api_domain=wakapi.dev&theme=tokyonight&layout=compact&range=last_113_days&hide_border=true"
         width="500"
       />
     </td>
