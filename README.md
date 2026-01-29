@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hello Traveler   
-# My name is Agas and welcome to my domain
+#  Welcome to my domain
 
 </div>
 
